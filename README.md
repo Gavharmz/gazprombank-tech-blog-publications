@@ -12,7 +12,7 @@ Frontend layout project based on Gazprombank Tech (Blog &amp; Publications)
 - responsive design
 
 ## Live preview
-Will be added using GitHub Pages.
+[Will be added using GitHub Pages.](https://gavharmz.github.io/gazprombank-tech-blog-publications/)
 
 ## Author
 Gavhar Mominjonova
